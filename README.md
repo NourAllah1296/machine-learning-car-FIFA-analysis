@@ -159,20 +159,23 @@ The project uses two real-world datasets:
 Machine-Learning-Project/
 │
 ├── Assignment-1/
-│   ├── Documentation.pdf
 │   ├── Code.ipynb
-│   └── car-price.csv
+│   ├── Documentation.pdf
+│   └── car_price.csv
 │
 ├── Assignment-2/
-│   ├── Documentation.pdf
 │   ├── Code.ipynb
+│   ├── Documentation.pdf
 │   └── Fifa.csv
 │
-└── Assignment-3-Final-Project/
-    ├── Documentation.pdf
-    ├── Code.ipynb
-    ├── Fifa.csv
-    └── car-price.csv
+├── Assignment-3-Final-Project/
+│   ├── Code.ipynb
+│   ├── Documentation.pdf
+│   ├── Fifa.csv
+│   └── car_price.csv
+│
+├── README.md
+└── requirements.txt   
 ```
 
 ## Key Learning Outcomes
