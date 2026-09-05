@@ -1,0 +1,12 @@
+{
+  "unified_system": {
+    "regression_test_r2": 0.843,
+    "regression_test_mae": 0.6736,
+    "regression_test_rmse": 2.4568,
+    "classification_test_accuracy": 0.8612,
+    "regression_cv_mean_r2": 0.7237,
+    "regression_cv_std": 0.0602,
+    "classification_cv_mean_accuracy": 0.858,
+    "classification_cv_std": 0.0038
+  }
+}
